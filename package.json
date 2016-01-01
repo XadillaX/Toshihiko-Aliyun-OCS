@@ -1,0 +1,28 @@
+{
+  "name": "toshihiko-aliyun-ocs",
+  "version": "1.0.0",
+  "description": "Aliyun OCS (Memcached) cache layout for Toshihiko.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XadillaX/toshihiko-aliyun-ocs.git"
+  },
+  "keywords": [
+    "Toshihiko",
+    "Memcached",
+    "OCS",
+    "Cache"
+  ],
+  "author": "XadillaX <i@2333.moe>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XadillaX/toshihiko-aliyun-ocs/issues"
+  },
+  "homepage": "https://github.com/XadillaX/toshihiko-aliyun-ocs#readme",
+  "dependencies": {
+    "aliyun-sdk": "^1.7.6"
+  }
+}
