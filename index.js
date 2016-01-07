@@ -14,6 +14,6 @@ var OCS = module.exports = require("./lib/ocs");
  * @param {Object} options the ocs options
  * @return {OCS} the OCS wrapper
  */
-module.exports.create = function(servers, options) {
-    return new OCS(servers, options);
+module.exports.create = function(host, port, username, password, options) {
+    return new OCS(host, port, username, password, options);
 };

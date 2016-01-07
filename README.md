@@ -3,7 +3,7 @@
 [![travis.ci](https://img.shields.io/travis/XadillaX/toshihiko-aliyun-ocs.svg)](https://travis-ci.org/XadillaX/toshihiko-aliyun-ocs)
 [![coveralls](https://img.shields.io/coveralls/XadillaX/toshihiko-aliyun-ocs.svg)](https://coveralls.io/r/XadillaX/toshihiko-aliyun-ocs)
 [![License](https://img.shields.io/npm/l/toshihiko-aliyun-ocs.svg?style=flat)](https://www.npmjs.org/package/toshihiko-aliyun-ocs)
-[![Dependency Status](https://david-dm.org/XadillaX/Toshihiko-Aliyun-OCS.svg)](https://david-dm.org/XadillaX/Toshihiko-Aliyun-OCS)
+[![Dependency Status](https://david-dm.org/XadillaX/toshihiko-aliyun-ocs.svg)](https://david-dm.org/XadillaX/toshihiko-aliyun-ocs)
 [![Toshihiko-Memcached](http://img.shields.io/npm/v/toshihiko-aliyun-ocs.svg)](https://www.npmjs.org/package/toshihiko-aliyun-ocs)
 [![Toshihiko-Memcached](http://img.shields.io/npm/dm/toshihiko-aliyun-ocs.svg)](https://www.npmjs.org/package/toshihiko-aliyun-ocs)
 
