@@ -4,7 +4,9 @@
   "description": "Aliyun OCS (Memcached) cache layout for Toshihiko.",
   "main": "index.js",
   "scripts": {
-    "test": "make test"
+    "test": "make test",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -27,12 +29,14 @@
     "eventemitter2": "^0.4.14",
     "lodash": "^4.17.5",
     "node_memcached": "^1.1.3",
-    "scarlet-task": "^0.1.0"
+    "scarlet-task": "^0.1.0",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "coveralls": "^2.11.6",
     "istanbul": "^0.4.1",
     "mocha": "^2.3.4",
     "should": "^8.0.2"
-  }
+  },
+  "snyk": true
 }
