@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/XadillaX/toshihiko-aliyun-ocs#readme",
   "dependencies": {
-    "debug": "^2.2.0",
+    "debug": "^3.1.0",
     "eventemitter2": "^0.4.14",
     "lodash": "^4.17.5",
     "node_memcached": "^1.1.3",
